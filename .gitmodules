@@ -1,3 +1,3 @@
-[submodule "renovate"]
-path = renovate
-url = git@github.com:JamieMagee/renovate.git
+[submodule "renovate-git-submodule-private"]
+	path = renovate-git-submodule-private
+	url = git@github.com:JamieMagee/renovate-git-submodule-private.git
